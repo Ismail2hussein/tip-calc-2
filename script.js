@@ -8,7 +8,7 @@ function calculateTip(bill) {
     return tip;
   }
   
-  const bill1 = 100;
+  const bill1 = 400;
   const bill2 = 300;
   const tip1 = calculateTip(bill1);
   const tip2 = calculateTip(bill2);
